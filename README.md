@@ -35,7 +35,7 @@ Oracle’s key achievement is **commercializing the Relational Model and SQL**, 
 
 - **Mohamed Sharaf**
 - **Mohamed Abd-Elrahman**   
-- **Mohamed Hussain** — [GitHub Profile]([https://github.com/M-Khailfa](https://github.com/MOHAMED020EGY01)  
+- **Mohamed Hussain** — [GitHub Profile](https://github.com/MOHAMED020EGY01)  
 - **Mahmoud Walid** — [GitHub Profile](https://github.com/Mahmou2waleed)  
 - **Mahmoud Suleiman**   
 - **Ali Mohamed** — [GitHub Profile](https://github.com/AliMohamedFikri)  
